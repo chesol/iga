@@ -1,7 +1,7 @@
 baseURL = "https://www.example.com/"
 languageCode = "de-AT"
 title = "Christian Hennerbichler"
-themesDir = "../.."
+themesDir = "./themes"
 theme = "hugo-hero-theme"
 
 [module]
@@ -38,18 +38,13 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Schwerpunkte"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
     weight = 3
 
 [[menu.main]]
