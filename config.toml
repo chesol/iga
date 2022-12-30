@@ -33,7 +33,7 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
+	name = "Dienstleistungen"
 	url = "/services/"
     weight = 1
 
@@ -43,12 +43,12 @@ theme = "hugo-hero-theme"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Über mich"
     url = "/about/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 4
 
