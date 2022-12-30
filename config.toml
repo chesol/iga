@@ -2,7 +2,7 @@ baseURL = "https://christian.hennerbichler.net/"
 languageCode = "de-AT"
 title = "Christian Hennerbichler"
 themesDir = "./themes"
-theme = "hugo-hero-theme"
+theme = "hugo-hero"
 
 [module]
   [module.hugoVersion]
