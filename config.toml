@@ -39,9 +39,14 @@ theme = "hugo-hero"
 
 
 [[menu.main]]
-    name = "Kontakt"
+    name = "Ansprechpartner"
     url = "/contact/"
     weight = 2
+
+[[menu.main]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

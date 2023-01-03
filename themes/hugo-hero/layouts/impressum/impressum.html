@@ -1,0 +1,47 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-impressum{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+      <ul>
+        {{ if .Site.Data.impressum.phone }}
+        <li><strong>Phone: </strong>{{ .Site.Data.impressum.phone }}</li>
+        {{ end }}
+        {{ if .Site.Data.impressum.email }}
+        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.impressum.email }}">
+            {{ .Site.Data.impressum.email }}</a></li>
+        {{ end }}
+        {{ if .Site.Data.impressum.address }}
+        <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.impressum.address }}</li>
+        {{ end }}
+      </ul>
+      {{ if .Site.Data.impressum.hours }}
+      <h4 class="mt-4">Business Hours</h4>
+      <table class="table table-sm opening-hours-table">
+        {{ range .Site.Data.impressum.hours }}
+        <tr>
+          <td class="day font-weight-bold">{{ .day }}</td>
+          <td class="opens">{{ .open }}</td>
+          <td>-</td>
+          <td class="closes">{{ .close }}</td>
+        </tr>
+        {{ end }}
+      </table>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

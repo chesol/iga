@@ -17,6 +17,9 @@
     <div class="col-12 col-md-8">
       {{ .Content }}
       <ul>
+        {{ if .Site.Data.contact.businessName }}
+        <li><strong>{{ .Site.Data.contact.businessName }}</strong></li>
+        {{ end }}
         {{ if .Site.Data.contact.phone }}
         <li><strong>Mobil: </strong>{{ .Site.Data.contact.phone }}</li>
         {{ end }}
