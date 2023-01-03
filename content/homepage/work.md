@@ -1,9 +1,9 @@
 ---
-title: 'Ich löse Ihr Problem'
+title: 'Wir haben die optimale Lösung'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Meine Schwerpunkte'
-buttonLink: 'work'
+button: 'Unsere Dienstleistungen'
+buttonLink: 'services'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Dank langjähriger Erfahrung helfen wir Ihnen nicht nur auf der Suche bei der optimalen Lösung, sondern auch bei der Ausführung.

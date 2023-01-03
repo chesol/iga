@@ -1,6 +1,6 @@
-baseURL = "https://christian.hennerbichler.net/"
+baseURL = "https://soleba.at/"
 languageCode = "de-AT"
-title = "Christian Hennerbichler"
+title = "SOLEBA"
 themesDir = "./themes"
 theme = "hugo-hero"
 
@@ -13,11 +13,11 @@ theme = "hugo-hero"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/logo-mobile.png"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
-    desktop_height = "29px"
+    desktop = "images/logo.png"
+    desktop_height = "40px"
     desktop_width = "217px"
     alt = "Hugo Hero"
 
@@ -37,20 +37,11 @@ theme = "hugo-hero"
 	url = "/services/"
     weight = 1
 
-[[menu.main]]
-    name = "Schwerpunkte"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
-    name = "Über mich"
-    url = "/about/"
-    weight = 3
 
 [[menu.main]]
     name = "Kontakt"
     url = "/contact/"
-    weight = 4
+    weight = 2
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
