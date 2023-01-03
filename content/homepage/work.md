@@ -6,4 +6,4 @@ button: 'Unsere Dienstleistungen'
 buttonLink: 'services'
 ---
 
-Dank langjähriger Erfahrung helfen wir Ihnen nicht nur auf der Suche bei der optimalen Lösung, sondern auch bei der Ausführung.
+Dank langjähriger Erfahrung helfen wir ihnen nicht nur auf der Suche bei der optimalen Lösung, sondern auch bei der Ausführung.

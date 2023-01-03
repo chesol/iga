@@ -1,9 +1,8 @@
 email: 'office@soleba.at'
-phone: '+43 664 123 4567'
-businessName: 'Christian Hennerbichler'
+phone: '+43 676 xxx xxxx'
+businessName: ''
 address: |
-  Birkenstrasse 4
-  4173 St. Veit im Mühlkreis
+  
 hours:
   - day: Monday
     open: 8:30am
