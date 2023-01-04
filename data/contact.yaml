@@ -1,27 +1,15 @@
 email: 'office@soleba.at'
+emailche: 'christian.hennerbichler@soleba.at'
 phone: '+43 676 xxx xxxx'
+phoneche: '+43 676 xxx xxxx'
 businessName: 'Christian Hennerbichler'
-address: |
-  
-hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
-    close:
-  - day: Sunday
-    open: Closed
-    close:
+businessNameche: 'Christian Hennerbichler'
+Textche: 'Seit meiner Ausbildung an der HTL für Elektrotechnik in Waidhofen a.d. Ybbs, die ich 1998 mit der Matura abgeschlossen habe, bin ich mit Begeisterung in der Gebäudeautomation tätig.' 
+Stationenche: '11 Jahre Honeywell Building Solutions (Technik u. Projektleitung - Linz) 
+ 
+2 Jahre Imtech Austria (Technik u. Projektleitung - Linz)  
+
+11 Jahre GTS Automation (Niederlassungsleitung, Prokurist - Linz)'
+
+Mottoche: 'Trotz langjähriger Tätigkeiten als Führungskraft eines stetig wachsenden Unternehmens hat mich die Technik nie losgelassen, weswegen ich mich im Jahr 2023 dazu entschlossen habe, meinem Herz zu folgen und ein eigenständiges Unternehmen zu gründen, in dem ich mich voll und ganz dem wesentlichen Leitbild meines Tuns widmen kann:
+Intelligente Automatisierungs-Lösungen sollen sie dabei unterstützen, ihr Gebäude mit minimalem Aufwand so effizient und nachhaltig wie möglich zu betreiben - um so unsere Umwelt zu schützen.'

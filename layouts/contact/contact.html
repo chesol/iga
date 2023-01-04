@@ -17,18 +17,24 @@
     <div class="col-12 col-md-8">
       {{ .Content }}
       <ul>
-        {{ if .Site.Data.contact.businessName }}
-        <li><strong>{{ .Site.Data.contact.businessName }}</strong></li>
+        {{ if .Site.Data.contact.businessNameche }}
+        <li><strong><u>{{ .Site.Data.contact.businessNameche }}</strong></u></li>
         {{ end }}
-        {{ if .Site.Data.contact.phone }}
-        <li><strong>Mobil: </strong>{{ .Site.Data.contact.phone }}</li>
+        {{ if .Site.Data.contact.phoneche }}
+        <li><strong>Mobil: </strong>{{ .Site.Data.contact.phoneche }}</li>
         {{ end }}
-        {{ if .Site.Data.contact.email }}
-        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
-            {{ .Site.Data.contact.email }}</a></li>
+        {{ if .Site.Data.contact.emailche }}
+        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.emailche }}">
+        {{ .Site.Data.contact.emailche }}</a></li>
         {{ end }}
-        {{ if .Site.Data.contact.address }}
-        <li style="white-space: pre-wrap;"><strong>Adresse: </strong><br>{{ .Site.Data.contact.address }}</li>
+        {{ if .Site.Data.contact.Textche }}
+        <li style="white-space: pre-wrap;"><br><strong>Über mich: </strong><br>{{ .Site.Data.contact.Textche }}</li>
+        {{ end }}
+        {{ if .Site.Data.contact.Stationenche }}
+        <li style="white-space: pre-wrap;"><br><strong>Meine Stationen: </strong><br>{{ .Site.Data.contact.Stationenche }}</li>
+        {{ end }}
+        {{ if .Site.Data.contact.Mottoche }}
+        <li style="white-space: pre-wrap;"><br><strong>Mein Antrieb: </strong><br>{{ .Site.Data.contact.Mottoche }}</li>
         {{ end }}
       </ul>
       

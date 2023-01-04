@@ -6,4 +6,4 @@ button: 'Ansprechpartner'
 buttonLink: 'contact'
 ---
 
-Dank langjähriger Erfahrung helfen wir ihnen nicht nur auf der Suche bei der optimalen Lösung, sondern auch bei der Ausführung.
+Dank langjähriger Erfahrung unterstützen wir sie nicht nur auf der Suche nach der optimalen Lösung, wir können ihr Projekt auch realisieren.
