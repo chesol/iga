@@ -15,7 +15,7 @@ Nur eine gut eingeregelte und auf die Bedürfnisse der Nutzer angepasste Regelun
 Gerne unterstützen wir sie dabei direkt bei ihnen vor Ort, oder auch per Fernwartung. 
 
 
-## Künstliche Inteligenz
+## Künstliche Intelligenz
 
 Darüber hinaus implementieren wir auf Wunsch künstliche Intelligenz in ihre Anlage, welche die aktuelle Wettervorhersage und/oder aktuelle Strompreise und vieles mehr berücksichtigt, um mit minimalem Energieverbrauch den bestmöglichen Komfort zu erreichen und ihre Anlage gleichzeitig so kostenoptimiert wie möglich zu betreiben.
 
