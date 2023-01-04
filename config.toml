@@ -14,12 +14,12 @@ theme = "hugo-hero"
 
   [params.logo]
     mobile = "images/logo-mobile.png"
-    mobile_height = "36px"
-    mobile_width = "36px"
+    mobile_height = "70px"
+    mobile_width = "70px"
     desktop = "images/logo.png"
-    desktop_height = "40px"
+    desktop_height = "60px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "SOLEBA"
 
   [params.homepage_meta_tags]
     meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."

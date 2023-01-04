@@ -3,6 +3,7 @@ title: 'Betreuung und Wartung'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
+weight: 6
 draft: false
 heroHeading: 'Betreuung und Wartung'
 heroSubHeading: ''
