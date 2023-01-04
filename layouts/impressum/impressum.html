@@ -35,9 +35,11 @@
         {{ end }}
         {{ if .Site.Data.impressum.email }}
         <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.impressum.email }}">
-        {{ .Site.Data.impressum.email }}</a></li>
+        {{ .Site.Data.impressum.email }}</a></li><br><br>
         {{ end }}
-
+        {{ if .Site.Data.impressum.firmendaten }}
+        <li style="white-space: pre-wrap;">{{ .Site.Data.impressum.firmendaten }}</li>
+        {{ end }}
       </ul>
       
     </div>
