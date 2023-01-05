@@ -19,4 +19,4 @@ Heizung, Lüftung, Kühlung, Beleuchtung und Beschattung müssen optimal zusamme
 Die Energie die selbst erzeugt wird, muss optimal genutzt werden, um die Gebäude und technischen Anlagen zu versorgen und die Autos und Speicher zu laden.    
 
 Die klassische Mess-, Steuer- und Regelungstechnik im Gebäude, also die Steuerung und Regelung von Heizung, Lüftung und Kühlung, genauso wie die Einzelraumregelung sind unser täglich Brot.
-Die Realisierung von Energiemonitoring und Lastspitzenmanagement sind unsere Spezialgebiete, auf die wir uns in den letzten Jahren konzentriert haben.
+Energiemonitoring und Lastspitzenmanagement sind unsere Herzensangelegenheit, wo wir unsere Fähigkeiten in den letzten Jahren genutzt und stark ausgebaut haben.
