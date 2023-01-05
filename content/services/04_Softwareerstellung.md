@@ -12,16 +12,8 @@ heroBackground: 'services/service2.jpg'
 
 Bei Bedarf erstellen wir die für ihr Projekt notwendige Software.  
 
-Technologie: XAMControl des Software-Herstellers evon als zentrale, offene Intelligenz.  
+Als Software-Plattform für die gewerkeübergreifende Kommunikation sowie die zentrale Visualisierung verwenden wir [XAMControl des Software-Herstellers evon](https://evon-automation.com/xamcontrol-funktionen/ "Link zur Website evon-automation.com").
 
-### Schnittstellen  
-1. BACnet
-2. Modbus RTU / TCP
-3. DALI
-4. SMI
-5. MBUS
-6- OPC-UA
-7. knx (als Feldbus zur Verwendung von Bedienelementen)
-8. knx (als Schnittstelle zum Gewerk Elektro)
+Dadurch können wir eine Vielzahl von gängigen, offenen Hardware-Produkten als I/O-Ebene verwenden und alle gängigen Schnittstellen im Gebäude auf die zentrale Leittechnik aufschalten.
 
-
+Wir greifen dabei zu 100% auf unser eigenes Know-How der äußerst erfolgreichen Realisierung mehrere hundert Projekte mit diesem System zurück.

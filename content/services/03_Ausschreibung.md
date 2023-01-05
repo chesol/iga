@@ -10,8 +10,9 @@ heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Je nach Wunsch erstellen wir ihre Ausschreibung gemäß
-  
-ÖNORM Standardleistungsbuch oder  
-eine Funktionalausschreibung für das Gewerk Gebäudeautomation / MSR.
+Wollen sie das geplante Projekt in eine Ausschreibung verwandeln?  
+
+Kein Problem, wir sind ihr Professionist zur Erstellung folgender Ausschreibungsvarianten für das Gewerk Gebäudeautomation (GA) bzw. MSR:
+1. ÖNORM Standardleistungsbuch (LB-HT)
+2. Funktionalausschreibung
 

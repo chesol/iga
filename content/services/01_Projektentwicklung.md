@@ -10,11 +10,13 @@ heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Egal ob Bestandsgebäude oder Neubau in Planung.  
+Egal ob bestehendes Gebäude, Neubau in Planung oder global übergreifende Liegenschaften.
 
-Gemeinsam finden wir die optimale Lösung für ihre Bedürfnisse, um den maximalen Komfort mit dem minimalen Energieverbrauch ihres Gebäudes zu realisieren.  
+Gemeinsam finden wir die optimale Lösung für ihre Bedürfnisse, um den maximalen Komfort mit dem minimalen Energieverbrauch ihrer Immobilien zu realisieren.  
   
 Heizung, Lüftung, Kühlung, Beleuchtung und Beschattung müssen optimal zusammenarbeiten, um so wenig Energie wie möglich zu verbrauchen.  
 
-Die Energie die selbst erzeugt wird, muss optimal genutzt werden, um das Gebäude zu versorgen, die Autos zu laden und auch immer ausreichend Energie zur Verfügung zu haben.  
+Die Energie die selbst erzeugt wird, muss optimal genutzt werden, um die Gebäude und technischen Anlagen zu versorgen und die Autos und Speicher zu laden.    
 
+Die klassische Mess-, Steuer- und Regelungstechnik im Gebäude, also die Steuerung und Regelung von Heizung, Lüftung und Kühlung, genauso wie die Einzelraumregelung sind unser täglich Brot.
+Die Realisierung von Energiemonitoring und Lastspitzenmanagement sind unsere Spezialgebiete, auf die wir uns in den letzten Jahren konzentriert haben.

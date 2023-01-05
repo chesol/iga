@@ -17,5 +17,5 @@ Gerne unterstützen wir sie dabei direkt bei ihnen vor Ort, oder auch per Fernwa
 
 ## Künstliche Intelligenz
 
-Darüber hinaus implementieren wir auf Wunsch künstliche Intelligenz in ihre Anlage, welche die aktuelle Wettervorhersage und/oder aktuelle Strompreise und vieles mehr berücksichtigt, um mit minimalem Energieverbrauch den bestmöglichen Komfort zu erreichen und ihre Anlage gleichzeitig so kostenoptimiert wie möglich zu betreiben.
+Darüber hinaus implementieren wir auf Wunsch künstliche Intelligenz auf ihrer Anlage, welche die aktuelle Wettervorhersage und/oder aktuelle Strompreise und vieles mehr berücksichtigt, um mit minimalem Energieverbrauch den bestmöglichen Komfort zu erreichen und ihre Anlage gleichzeitig so kostenoptimiert wie möglich zu betreiben.
 

@@ -10,5 +10,7 @@ heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Vor-Ort Inbetriebnahme der erstellten Software.
+Eine lückenlose Inbetriebnahme ist Voraussetzung für eine einwandfrei funktionierende Anlage.
+
+Gerne übernehmen wir bei Bedarf die Inbetriebnahme der von uns erstellten Software samt 1:1 Datenpunkte-Check direkt vor Ort.
 
