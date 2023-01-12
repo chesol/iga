@@ -1,0 +1,1 @@
+hugo -extended server -D --printPathWarnings
