@@ -7,7 +7,7 @@ weight: 5
 draft: false
 heroHeading: 'Inbetriebnahme'
 heroSubHeading: ''
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/service3.jpg'
 ---
 
 Eine lückenlose Inbetriebnahme ist Voraussetzung für eine einwandfrei funktionierende Anlage.

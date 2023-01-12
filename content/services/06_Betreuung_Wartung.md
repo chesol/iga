@@ -7,7 +7,7 @@ weight: 6
 draft: false
 heroHeading: 'Betreuung und Wartung'
 heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service3.jpg'
 ---
 
 Nur eine gut eingeregelte und auf die Bedürfnisse der Nutzer angepasste Regelungstechnik-Anlage bringt ihren optimalen Nutzen.  
