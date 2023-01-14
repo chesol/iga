@@ -27,6 +27,7 @@
         <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.emailche }}">
         {{ .Site.Data.contact.emailche }}</a></li>
         {{ end }}
+         <font size="2">
         {{ if .Site.Data.contact.Textche }}
         <li style="white-space: pre-wrap;"><br><strong>Über mich: </strong><br>{{ .Site.Data.contact.Textche }}</li>
         {{ end }}
@@ -36,12 +37,17 @@
         {{ if .Site.Data.contact.Mottoche }}
         <li style="white-space: pre-wrap;"><br><strong>Mein Antrieb: </strong><br>{{ .Site.Data.contact.Mottoche }}</li>
         {{ end }}
+        </font>
       </ul>
-      
-    </div>
-    <div class="col-12 col-md-6">
+      </div>
+      <div class="col-12 col-md-6">
       <img src="/contact/christian.png" class="img-fluid" alt="Responsive image">
     </div>
   </div>
+  <hr>
+  
+
+
+
 </div>
 {{ end }}
