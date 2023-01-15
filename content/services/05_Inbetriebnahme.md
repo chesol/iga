@@ -12,5 +12,5 @@ heroBackground: 'services/service3.jpg'
 
 Eine lückenlose Inbetriebnahme ist Voraussetzung für eine einwandfrei funktionierende Anlage.
 
-Gerne übernehmen wir bei Bedarf die Inbetriebnahme der von uns erstellten Software samt 1:1 Datenpunkte-Check direkt vor Ort.
+Gerne übernehmen wir bei Bedarf die Inbetriebnahme der von uns erstellten Software, auf Wunsch führen wir auch den kompletten 1:1 Datenpunkte-Check direkt vor Ort durch.
 
