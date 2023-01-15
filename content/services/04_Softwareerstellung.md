@@ -10,7 +10,7 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 ---
 
-Bei Bedarf erstellen wir die komplette Software für ihr Projekt.  
+Gerne erstellen wir die komplette Software für ihr Projekt.  
 
 Als Software-Plattform für die gewerkeübergreifende Kommunikation sowie die zentrale Visualisierung verwenden wir [XAMControl des Software-Herstellers evon](https://evon-automation.com/xamcontrol-funktionen/ "Link zur Website evon-automation.com").
 
