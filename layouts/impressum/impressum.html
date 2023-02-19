@@ -28,6 +28,11 @@
         {{ if .Site.Data.impressum.businessName }}
         <li style="white-space: pre-wrap;"><strong>{{ .Site.Data.impressum.businessName }}</strong></li>
         {{ end }}
+
+        {{ if .Site.Data.impressum.businessRemark }}
+        <li style="white-space: pre-wrap;"><strong>{{ .Site.Data.impressum.businessName }}</strong></li>
+        {{ end }}
+
         {{ if .Site.Data.impressum.address }}
         <li style="white-space: pre-wrap;"><strong>Adresse: </strong>{{ .Site.Data.impressum.address }}</li>
         {{ end }}
