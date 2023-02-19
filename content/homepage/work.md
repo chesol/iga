@@ -1,6 +1,6 @@
 ---
 title: 'Wir haben die optimale Lösung'
-weight: 1
+weight: 0
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Ansprechpartner'
 buttonLink: 'contact'
