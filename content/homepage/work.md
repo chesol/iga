@@ -1,7 +1,7 @@
 ---
 title: 'Anforderungen und Bedürfnisse sinnvoll umsetzen'
 weight: 0
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/schema.jpg'
 button: 'Ansprechpartner'
 buttonLink: 'contact'
 ---
