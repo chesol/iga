@@ -14,11 +14,11 @@ theme = "hugo-hero"
 
   [params.logo]
     mobile = "images/logo-mobile.png"
-    mobile_height = "70px"
-    mobile_width = "70px"
+    mobile_height = "80px"
+    mobile_width = "120px"
     desktop = "images/logo.png"
     desktop_height = "60px"
-    desktop_width = "217px"
+    desktop_width = "250px"
     alt = "SOLEBA"
 
   [params.homepage_meta_tags]
