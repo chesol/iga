@@ -14,8 +14,8 @@ theme = "hugo-hero"
 
   [params.logo]
     mobile = "images/logo-mobile.png"
-    mobile_height = "80px"
-    mobile_width = "120px"
+    mobile_height = "120px"
+    mobile_width = "240px"
     desktop = "images/logo.png"
     desktop_height = "60px"
     desktop_width = "250px"
