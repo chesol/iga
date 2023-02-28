@@ -5,7 +5,7 @@ icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Projektentwicklung'
+heroHeading: 'Projekt- Entwicklung'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
