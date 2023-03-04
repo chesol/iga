@@ -23,5 +23,6 @@
   <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
   {{ else }}
   <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+  <font size="2">
   {{ end }}
 {{ end }}
