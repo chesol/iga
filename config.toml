@@ -22,7 +22,7 @@ theme = "hugo-hero"
     alt = "SOLEBA"
 
   [params.homepage_meta_tags]
-    meta_description = "SOLEBA Christian Hennerbichler Gebäudeautomation MSR evon xamcontrol beckhoff oqdo oqdo.bos energie energiedatenerfassung optimierung planung belimo wago regelungstechnik steuerungstechnik"
+    meta_description = "SOLEBA Christian Hennerbichler. Gebäudeautomation, MSR, Energiemonitoring, Energieverbrauchsoptimierung, evon xamcontrol, Beckhoff, oqdo, oqdo.bos, energie, energiedatenerfassung, optimierung, planung, belimo, wago, regelungstechnik, steuerungstechnik"
     meta_og_title = "SOLEBA - by Christian Hennerbichler"
     meta_og_type = "website"
     meta_og_url = "https://soleba.at"
