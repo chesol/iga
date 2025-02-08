@@ -43,6 +43,38 @@
       <div class="col-12 col-md-6">
     <img src="/contact/christian.png" class="img-fluid" alt="Responsive image">
     <font size="2">
+      </div>
+
+      <div class="row">
+    <div class="col-12 col-md-6">
+      {{ .Content }}
+      <ul>
+        {{ if .Site.Data.contact.businessNamemsc }}
+        <li><strong><u>{{ .Site.Data.contact.businessNamemsc }}</strong></u></li>
+        {{ end }}
+        {{ if .Site.Data.contact.phonemsc }}
+        <li><strong>Mobil: </strong>{{ .Site.Data.contact.phoneche }}</li>
+        {{ end }}
+        {{ if .Site.Data.contact.emailmsc }}
+        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.emailmsc }}">
+        {{ .Site.Data.contact.emailmsc }}</a></li>
+        {{ end }}
+         <font size="2">
+        {{ if .Site.Data.contact.Textmsc }}
+        <li style="white-space: pre-wrap;"><br><strong>Über mich: </strong><br>{{ .Site.Data.contact.Textmsc }}</li>
+        {{ end }}
+        {{ if .Site.Data.contact.Stationenmsc }}
+        <li style="white-space: pre-wrap;"><br><strong>Meine Stationen: </strong><br>{{ .Site.Data.contact.Stationenmsc }}</li>
+        {{ end }}
+        {{ if .Site.Data.contact.Mottomsc }}
+        <li style="white-space: pre-wrap;"><br><strong>Mein Antrieb: </strong><br>{{ .Site.Data.contact.Mottomsc }}</li>
+        {{ end }}
+        </font>
+      </ul>
+      </div>
+      <div class="col-12 col-md-6">
+    <img src="/contact/michael.png" class="img-fluid" alt="Responsive image">
+    <font size="2">
     </div>
   </div>
   <hr>
