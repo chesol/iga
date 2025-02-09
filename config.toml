@@ -1,6 +1,6 @@
 baseURL = "https://soleba.at/"
 languageCode = "de-AT"
-title = "SOLEBA"
+title = "SOLEBA GmbH"
 themesDir = "./themes"
 theme = "hugo-hero"
 
