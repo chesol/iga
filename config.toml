@@ -44,9 +44,14 @@ theme = "hugo-hero"
     weight = 2
 
 [[menu.main]]
+    name = "Lösungen"
+    url = "/solutions/"
+    weight = 3
+
+[[menu.main]]
     name = "Impressum"
     url = "/impressum/"
-    weight = 3
+    weight = 4
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
