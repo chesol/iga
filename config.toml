@@ -49,6 +49,13 @@ theme = "hugo-hero"
     url = "/impressum/"
     weight = 3
 
+
+ [[menu.main]]
+    name = "AGB"
+    url = "/agb/"
+    weight = 4
+
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
