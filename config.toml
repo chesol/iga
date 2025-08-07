@@ -52,7 +52,7 @@ theme = "hugo-hero"
 
  [[menu.main]]
     name = "AGB"
-    url = "/agb/"
+    url = "AGB_SOLEBA_GmbH.pdf"
     weight = 4
 
 
