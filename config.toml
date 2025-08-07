@@ -27,7 +27,7 @@ theme = "hugo-hero"
     meta_og_type = "website"
     meta_og_url = "https://soleba.at"
     meta_og_image = "/images/base_logo_white_background.png"
-    meta_og_description = "SOLEBA GmbH - nachhaltige Lösungen für Gebäudeautomation und Energieeinsparung"
+    meta_og_description = "SOLEBA GmbH - nachhaltige Lösungen für Gebäudeautomation und Energieverbrauchsoptimierung"
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
@@ -52,7 +52,7 @@ theme = "hugo-hero"
 
  [[menu.main]]
     name = "AGB"
-    url = "AGB_SOLEBA_GmbH.pdf"
+    url = "https://soleba.at/AGB_SOLEBA_GmbH.pdf"
     weight = 4
 
 
