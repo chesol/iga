@@ -1,0 +1,43 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-impressionen{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Abschnitt 1: Anlagentechnik – Hardware -->
+<div class="container my-5">
+  <div class="row">
+    <div class="col-12">
+      <h2>Anlagentechnik – Hardware</h2>
+      <p>Professionelle Lösungen von bla bla bla, Partner…</p>
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-12 col-md-6 mb-4">
+      <img src="/impressions/IMG_2060.jpeg" class="img-fluid" alt="Anlagentechnik Bild 1">
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+      <img src="/impressions/IMG_2063.jpeg" class="img-fluid" alt="Anlagentechnik Bild 2">
+    </div>
+  </div>
+</div>
+
+<!-- Abschnitt 2: Gebäudeleittechnik – Software -->
+<div class="container my-5">
+  <div class="row">
+    <div class="col-12">
+      <h2>Gebäudeleittechnik – Software</h2>
+      <p>Durch evon XAMControl bla bla bla</p>
+    </div>
+  </div>
+</div>
+{{ end }}
